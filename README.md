@@ -60,7 +60,7 @@ A repository tied to my recent collaborative and development projects.
 
 ---
 
-##  GitHub Stats
+<!--##  GitHub Stats
 
 <div align="center">
 
@@ -71,7 +71,7 @@ A repository tied to my recent collaborative and development projects.
 
 <img src="https://github-profile-trophy.vercel.app/?username=Abihud254&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 
-</div>
+</div> -->
 
 ---
 
