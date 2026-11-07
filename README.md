@@ -14,30 +14,30 @@
 
 ---
 
-## 👋 Hi, I’m Abihud
+##  Hi, I’m Abihud
 
 I’m a **Data Annotator and AI Trainer** who evaluates and improves large language models, and a **full-stack developer** who builds the tools around them. My work sits where statistics, rigorous AI model training and software engineering meet, so the digital solutions I build are smart *and* reliable.
 
-- 🧠 **AI training:** LLM evaluation, RLHF, prompt engineering, ground-truth validation and code evaluation
-- 📊 **Statistical foundation:** BSc in Mathematical Statistics (Second Class Honours), Technical University of Kenya
-- 🌐 **Builder:** full-stack web apps, from database to deployed UI
-- 🔐 **Trained in:** Full-Stack Web Development, Networking, Cybersecurity and Graphic Design
-- 🗣️ **Languages:** English and Kiswahili
+-  **AI training:** LLM evaluation, RLHF, prompt engineering, ground-truth validation and code evaluation
+-  **Statistical foundation:** BSc in Mathematical Statistics (Second Class Honours), Technical University of Kenya
+-  **Builder:** full-stack web apps, from database to deployed UI
+-  **Trained in:** Full-Stack Web Development, Networking, Cybersecurity and Graphic Design
+-  **Languages:** English and Kiswahili
 
 > *“Good models need good data, and good data needs people who can tell the difference.”*
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 | | Tools & Skills |
 |---|---|
-| 💻 **Languages & Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🤖 **AI & Data** | LLM evaluation · RLHF · Prompt engineering · Ground-truth validation · Code evaluation · EWOQ · CrowdCompute Workbench |
-| 🧰 **Dev Environment** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| 🚀 **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| 🎨 **Design & Creative** | Branding · UI/UX assets · Visual layouts |
-| 🔒 **Systems & Security** | Networking fundamentals · Cybersecurity basics |
+|  **Languages & Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+|  **AI & Data** | LLM evaluation · RLHF · Prompt engineering · Ground-truth validation · Code evaluation · EWOQ · CrowdCompute Workbench |
+|  **Dev Environment** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+|  **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+|  **Design & Creative** | Branding · UI/UX assets · Visual layouts |
+|  **Systems & Security** | Networking fundamentals · Cybersecurity basics |
 
 <div align="center">
 
@@ -47,20 +47,20 @@ I’m a **Data Annotator and AI Trainer** who evaluates and improves large langu
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌍 [Portfolio](https://github.com/Abihud254/portfolio)
-My main developer portfolio, hosting my projects and showcasing my AI-training, data and web work. A refreshed version lives in **`abihud-website-refresh`**.
+###  [Portfolio](https://github.com/Abihud254/portfolio)
+My main developer portfolio, hosting my projects and showcasing my AI training, data, and web work. A refreshed version lives in **`abihud-website-refresh`**.
 
-### 💰 [Chama Manager](https://github.com/Abihud254/chama-manager)
-A full-stack, automated **savings and loan management platform** for chamas (group savings circles), deployed on **Vercel**. It aims to replace manual record-keeping with accurate, automated tracking.
+###  [Parana E-Commerce](https://hackathon3-henna.vercel.app/ecommerce.html)
+A model that mimics the concept of environmentally conscious shopping in accordance with the World Economic Forum SDG. It is hosted on Vercel and aims to promote a better ecosystem with a reduced carbon footprint.
 
-### 🤝 [LELA](https://github.com/Abihud254/LELA)
+###  [LELA](https://github.com/Abihud254/LELA)
 A repository tied to my recent collaborative and development projects.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -75,15 +75,15 @@ A repository tied to my recent collaborative and development projects.
 
 ---
 
-## 🎯 What I’m Focused On
+##  What I’m Focused On
 
-- 🔭 Growing my AI evaluation work across LLM, code and multimodal tasks
-- 🛠️ Building and shipping full-stack projects with real-world use
-- 📚 Deepening my Python, cybersecurity and networking skills
+-  Growing my AI evaluation work across LLM, code and multimodal tasks
+-  Building and shipping full-stack projects with real-world use
+-  Deepening my Python, cybersecurity and networking skills
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 I’m open to **remote AI training, data annotation and development opportunities**, as well as collaborations on projects that put reliable data and clean code together.
 
